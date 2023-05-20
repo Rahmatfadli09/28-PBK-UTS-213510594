@@ -12,7 +12,7 @@ defineProps({
     <h1 class="black">{{ msg }}</h1>
     <h3>
       <a href="https://instagram.com/rmt.fadli?igshid=ZGUzMzM3NWJiOQ==" target="_blank" rel="noopener"><img src="@/assets/ig.jpeg" alt=""></a> +
-      <a href="https://vuejs.org/" target="_blank" rel="noopener"><img src="@/assets/github.png" alt=""></a>
+      <a href="https://github.com/Rahmatfadli09/28-PBK-UTS-213510594/" target="_blank" rel="noopener"><img src="@/assets/github.png" alt=""></a>
     </h3>
   </div>
 </template>
